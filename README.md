@@ -8,7 +8,7 @@ Also check out other useful repos regarding the datasets:
 *  [**`CrossLoc-Benchmark-Datasets`**](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets): CrossLoc benchmark datasets setup tutorial.
 * [**`TOPO-DataGen`**](https://github.com/TOPO-EPFL/TOPO-DataGen): an open and scalable aerial synthetic data generation workflow.
 
-The CrossLoc localization algorithm is officially presented in the paper
+The DDLoc localization algorithm is officially presented in the paper
 <br>
 **CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**
 <br>
