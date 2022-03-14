@@ -89,7 +89,10 @@ Evaluate the final results, you can make use of [eval.py](./eval.py) with an exa
 If you want to evaluate with your own data, please place your own data under `<real dataset>/test` with the dataset structure described above.
 
 ## Pretrained Models
-The pretrained models will be released soon.
+The pretrained models and the testing set images could be found as follows:
+
+* [**`oneDrive`**](https://1drv.ms/u/s!AnkbqTET-eNqgoRsgBXkEg-PFSqudA?e=S6Pf43) 
+* [**`Google Drive`**](https://drive.google.com/drive/folders/19zIsQBeEvT69DLPbKoojOaG1_uau2VP1?usp=sharing)
 
 ## Sample Result Visualization
 
