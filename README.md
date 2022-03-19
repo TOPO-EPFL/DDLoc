@@ -38,7 +38,9 @@ You also need other third-party libraries, such as numpy, pillow, torchvision, a
 We suggest to follow the procedure in [CrossLoc repo](https://github.com/TOPO-EPFL/CrossLoc) to install dependecies.
 
 ## Datasets
-You have to download our provided urbanscape data and place them in the following structure to load the data.
+You have to download our provided urbanscape data and place them in the following structure to load the data. See [Pretrained Models](#Pretrained-Models) section for download links.
+
+
 ####  Dataset Structure
 ```
 urban (real)
@@ -89,7 +91,7 @@ Evaluate the final results, you can make use of [eval.py](./eval.py) with an exa
 If you want to evaluate with your own data, please place your own data under `<real dataset>/test` with the dataset structure described above.
 
 ## Pretrained Models
-The pretrained models and the testing set images could be found as follows:
+Pretrained network weights, the testing set images and the full datasets could be found as follows:
 
 * [**`oneDrive`**](https://1drv.ms/u/s!AnkbqTET-eNqgoRsgBXkEg-PFSqudA?e=S6Pf43) 
 * [**`Google Drive`**](https://drive.google.com/drive/folders/19zIsQBeEvT69DLPbKoojOaG1_uau2VP1?usp=sharing)
